@@ -1,0 +1,11 @@
+c:\users\feroz\source\repos\MVCBasicV1\MVCBasicV1\bin\Debug\netcoreapp2.0\MVCBasicV1.deps.json
+c:\users\feroz\source\repos\MVCBasicV1\MVCBasicV1\bin\Debug\netcoreapp2.0\MVCBasicV1.runtimeconfig.json
+c:\users\feroz\source\repos\MVCBasicV1\MVCBasicV1\bin\Debug\netcoreapp2.0\MVCBasicV1.runtimeconfig.dev.json
+c:\users\feroz\source\repos\MVCBasicV1\MVCBasicV1\bin\Debug\netcoreapp2.0\MVCBasicV1.dll
+c:\users\feroz\source\repos\MVCBasicV1\MVCBasicV1\bin\Debug\netcoreapp2.0\MVCBasicV1.pdb
+c:\users\feroz\source\repos\MVCBasicV1\MVCBasicV1\obj\Debug\netcoreapp2.0\MVCBasicV1.csprojResolveAssemblyReference.cache
+c:\users\feroz\source\repos\MVCBasicV1\MVCBasicV1\obj\Debug\netcoreapp2.0\MVCBasicV1.csproj.CoreCompileInputs.cache
+c:\users\feroz\source\repos\MVCBasicV1\MVCBasicV1\obj\Debug\netcoreapp2.0\MVCBasicV1.AssemblyInfoInputs.cache
+c:\users\feroz\source\repos\MVCBasicV1\MVCBasicV1\obj\Debug\netcoreapp2.0\MVCBasicV1.AssemblyInfo.cs
+c:\users\feroz\source\repos\MVCBasicV1\MVCBasicV1\obj\Debug\netcoreapp2.0\MVCBasicV1.dll
+c:\users\feroz\source\repos\MVCBasicV1\MVCBasicV1\obj\Debug\netcoreapp2.0\MVCBasicV1.pdb
